@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using tyuiu.cources.programming.interfaces.Sprint1;
 
 
+
 namespace Tyuiu.MartysevichAD.Sprint1.Task4.V11.Lib
 {
     public class DataService : ISprint1Task4V11
@@ -14,6 +15,5 @@ namespace Tyuiu.MartysevichAD.Sprint1.Task4.V11.Lib
         {
             return Math.Atan(x) / Math.Pow(Math.E, y);
         }
-
     }
 }
