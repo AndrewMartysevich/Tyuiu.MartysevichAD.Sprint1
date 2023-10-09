@@ -39,7 +39,7 @@ namespace Tyuiu.MartysevichAD.Sprint1.Task4.V11
             Console.WriteLine("**************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                             *");
             Console.WriteLine("**************************************************************************");
-            Console.WriteLine("arctg(x)/(e^y) = " + ds.Calculate(x, y));
+            Console.WriteLine("arctg(x)/(e^y) = " + Math.Round(ds.Calculate(x, y), 3));
 
             Console.ReadLine();
         }
