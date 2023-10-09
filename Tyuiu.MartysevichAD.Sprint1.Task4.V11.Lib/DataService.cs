@@ -15,9 +15,5 @@ namespace Tyuiu.MartysevichAD.Sprint1.Task4.V11.Lib
             return Math.Atan(x) / Math.Pow(Math.E, y);
         }
 
-        public string Calculate()
-        {
-            throw new NotImplementedException();
-        }
     }
 }
