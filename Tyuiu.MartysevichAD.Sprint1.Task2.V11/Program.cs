@@ -15,7 +15,7 @@ namespace Tyuiu.MartysevichAD.Sprint1.Task2.V11
             Console.Title = "Спринт #1 | Выполнил: Мартысевич А. Д. | ИИПб-23-3";
             Console.WriteLine("**************************************************************************");
             Console.WriteLine("* Спринт #1                                                              *");
-            Console.WriteLine("* Тема: Арифметические операторы в C#                                    *");
+            Console.WriteLine("* Тема: Арифметические операторы в С#                                    *");
             Console.WriteLine("* Задание #2                                                             *");
             Console.WriteLine("* Вариант #11                                                            *");
             Console.WriteLine("* Выполнил: Мартысевич Андрей Денисович | ИИПб-23-3                      *");
