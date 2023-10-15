@@ -29,7 +29,7 @@ namespace Tyuiu.MartysevichAD.Sprint1.Task7.V8
             Console.WriteLine("");
             Console.WriteLine("                      y");
             Console.WriteLine("z = x * ln(x) + ----------------");
-            Console.WriteLine("              cos(x) - (x/3)");
+            Console.WriteLine("                 cos(x) - (x/3)");
 
             double x, y;
 
